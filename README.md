@@ -1,7 +1,8 @@
 -  Hi, I’m @Srimaran10
 -  I’m interested in Python
--  I’m currently learning other language
+-  I’m currently learning other languages
 -  I'm currently 14 years old
+-  I'm using Windows, Linux(Kali Linux)
   
  
 
